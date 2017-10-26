@@ -13,7 +13,7 @@ rules = {
     9: 'There are no real rules about moderation either - enjoy your ban',
     10: "If you enjoy any rival sites - DON'T",
     11: 'All your carefully picked arguments can easily be ignored',
-    2: 'Anything you say can and will be used against you',
+    12: 'Anything you say can and will be used against you',
     13: 'Anything you say can be turned into something else - fixed',
     14: 'Do not argue with trolls - it means that they win',
     15: 'The harder you try the harder you will fail',
